@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x3pitom3
+- 👋 Hi, I’m @0xepitome
 - 👀 I’m interested in cyber security and lately kinda endulging in malware analysis and reverse engineering.
 - 🌱 I’m currently a student learning computer security and forensics
 
